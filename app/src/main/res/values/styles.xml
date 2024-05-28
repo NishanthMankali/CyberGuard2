@@ -1,0 +1,19 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/cyberguard_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/cyberguard_colorPrimaryDark</item>
+        <item name="colorAccent">@color/cyberguard_colorAccent</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="Widget.CyberGuard.Button" parent="Widget.Material3.Button">
+        <!-- Customize button attributes here -->
+    </style>
+
+    <!-- Text view style -->
+    <style name="Widget.CyberGuard.TextView" parent="Widget.Material3.TextView">
+        <!-- Customize text view attributes here -->
+    </style>
+</resources>
